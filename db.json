@@ -10,7 +10,8 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 8,
+      "Likes": 10
     },
     {
       "id": 3,
@@ -47,6 +48,20 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 0,
+      "id": 9,
+      "Likes": 2
+    },
+    {
+      "name": "Optimus Prime",
+      "image": "https://s3.amazonaws.com/tf.images/reduced-image_17036_0_1588696407.png",
+      "likes": 0,
+      "id": 10,
+      "Likes": 15
     }
   ]
 }
